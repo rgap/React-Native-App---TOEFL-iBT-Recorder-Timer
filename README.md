@@ -8,6 +8,15 @@ Features: Recorder + Timer
 
 <a href="https://play.google.com/store/apps/details?id=com.toefltimer">https://play.google.com/store/apps/details?id=com.toefltimer</a>
 
+### Libraries/Plugins and Tools
+
+- react-redux: State management library
+- react-native-audio: Audio file handling 
+- react-native-fs: File system access
+- react-navigation: Navigation management 
+- react-splash-screen: Customized initial splash screen
+- Adobe Illustrator
+
 ### Some Screenshots
 
 <p align="center">
